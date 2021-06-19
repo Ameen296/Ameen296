@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ameen296
-- 👀 I’m interested in building business and finance apps
+- 👀 I’m interested in building things that makes everyday tasks easier.
 - 🌱 I’m currently learning Javascript with React.JS
 - 📫 You can contact me 'Ameenshah Sahri' on Linked In
 - Im here just to easily access my codes
